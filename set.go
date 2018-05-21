@@ -1,3 +1,6 @@
+//Implementation of a Set in GOLANG using maps
+// Set can contain a string value and supports
+// Add, Remove, Exists operation
 package main
 
 import "fmt"
